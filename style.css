@@ -1,0 +1,17 @@
+body{
+    display: grid;
+    place-content: center;
+}
+.signin{
+    display: grid;
+    justify-content: center;
+    border: 1px black solid;
+    width: 400px;
+    border-radius: 10px 10px ;
+    
+
+}
+form{
+    margin: 50px ;
+   
+}
